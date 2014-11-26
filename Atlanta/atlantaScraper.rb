@@ -7,7 +7,7 @@ url = "http://elclasificado.com/atlanta"
 doc = Nokogiri::HTML(open(url))
 
 
-CSV.open("results.csv", "wb") do |csv|
+CSV.open("resultsForAtlanta.csv", "wb") do |csv|
 	
 	doc.css(".tile-title").each do |item|
 		csv << [item.text.tr("[()]+0-9", ""), item.text.tr("^0-9$", "")] 
@@ -16,8 +16,6 @@ CSV.open("results.csv", "wb") do |csv|
 	doc.css(".tile-subcategory").each do |tile|
  		csv << [tile.text.tr("[()]+0-9", ""), tile.text.tr("^0-9$", "")]
 	end 
-
-	end  
  
 
 end 
