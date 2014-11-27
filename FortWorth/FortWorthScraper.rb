@@ -7,13 +7,13 @@ url = "http://elclasificado.com/fortworth"
 doc = Nokogiri::HTML(open(url))
 
 
-CSV.open("resultsForForthWorth.csv", "wb") do |csv|
+	CSV.open("resultsForForthWorth.csv", "wb") do |csv|
 	
-	doc.css(".tile-title").each do |item|
+	doc.css(".category-group-title").each do |item|
 		csv << [item.text.tr("[()]+0-9", ""), item.text.tr("^0-9$", "")] 
 	end 
 
-	doc.css(".tile-subcategory").each do |tile|
+	doc.css(".category-group-link").each do |tile|
  		csv << [tile.text.tr("[()]+0-9", ""), tile.text.tr("^0-9$", "")]
 	end	
 end  
