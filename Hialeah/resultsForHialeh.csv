@@ -7,17 +7,27 @@
                             Empleos 
                         
                     
-                ",193
+                ",113
 "
                     
                         
                             
                         
                         
-                            Rentas Y Alquileres 
+                            Autos y Camionetas 
                         
                     
-                ",89
+                ",29
+"
+                    
+                        
+                            
+                        
+                        
+                            Rentas y Arriendos 
+                        
+                    
+                ",26
 "
                     
                         
@@ -27,27 +37,17 @@
                             Compra y Venta General 
                         
                     
-                ",191
+                ",24
 "
                     
                         
                             
                         
                         
-                            Abogados y Servicios Legales 
+                            Educación, Cursos y Clases 
                         
                     
-                ",11
-"
-                    
-                        
-                            
-                        
-                        
-                            Autos Nuevos Y Usados 
-                        
-                    
-                ",69
+                ",9
 "
                     
                         
@@ -64,10 +64,10 @@
                             
                         
                         
-                            Educación, Cursos y Clases 
+                            Productos y Servicios de Belleza 
                         
                     
-                ",16
+                ",17
 "
                     
                         
@@ -77,34 +77,14 @@
                             Telecom y Equipo Digital 
                         
                     
-                ",30
+                ",14
 "
                     
                         
                             
                         
                         
-                            Servicios del Hogar 
-                        
-                    
-                ",35
-"
-                    
-                        
-                            
-                        
-                        
-                            Casas de Venta 
-                        
-                    
-                ",4
-"
-                    
-                        
-                            
-                        
-                        
-                            Belleza 
+                            Oportunidad de Negocios 
                         
                     
                 ",13
@@ -114,65 +94,105 @@
                             
                         
                         
-                            Servicio Automotriz 
+                            Préstamos 
                         
                     
-                ",18
+                ",13
 "
+                    
+                        
                             
-                                Carpinteros y Construcción 
-                            
-                        ",20
+                        
+                        
+                            Abogados y Servicios Legales 
+                        
+                    
+                ",14
 "
+                    
+                        
                             
-                                Choferes y Troqueros 
-                            
-                        ",11
-"
-                            
-                                Cuidado de Niños 
-                            
-                        ",5
-"
-                            
-                                Gerentes y Supervisores 
-                            
-                        ",3
+                        
+                        
+                            Casas de Venta 
+                        
+                    
+                ",3
 "
                             
                                 Limpieza 
                             
-                        ",22
+                        ",10
 "
                             
-                                Apartamentos 
+                                Cuidado de Niños 
                             
-                        ",72
+                        ",7
 "
                             
-                                Casas Para Alquilar 
-                            
-                        ",6
-"
-                            
-                                Cuarto Para Alquilar 
-                            
-                        ",6
-"
-                            
-                                Edificios, Piso, Oficina 
-                            
-                        ",0
-"
-                            
-                                Townhouse-Condo 
+                                Carpinteros y Construcción 
                             
                         ",3
 "
                             
-                                Mayoreo 
+                                Trabajos en Hoteles 
                             
-                        ",119
+                        ",0
+"
+                            
+                                Meseros y Cocineros 
+                            
+                        ",5
+"
+                            
+                                Subasta de carros 
+                            
+                        ",0
+"
+                            
+                                Chevrolet 
+                            
+                        ",0
+"
+                            
+                                Ford 
+                            
+                        ",2
+"
+                            
+                                Donaciones de Autos 
+                            
+                        ",0
+"
+                            
+                                Honda 
+                            
+                        ",7
+"
+                            
+                                Apartamentos 
+                            
+                        ",5
+"
+                            
+                                Cuartos Para Alquilar 
+                            
+                        ",11
+"
+                            
+                                Cuarto para compartir 
+                            
+                        ",0
+"
+                            
+                                Townhouse-Condominos 
+                            
+                        ",0
+"
+                            
+                                Casas Móviles Para Alquilar 
+                            
+                        ",0
 "
                             
                                 Compro Oro 
@@ -180,92 +200,37 @@
                         ",0
 "
                             
-                                Cosas Gratis o Intercambio 
-                            
-                        ",0
-"
-                            
-                                Muebles de Casa 
-                            
-                        ",0
-"
-                            
-                                Ropa en Venta 
-                            
-                        ",48
-"
-                            
-                                Abogados de Inmigración 
+                                Electrodomésticos 
                             
                         ",1
 "
                             
-                                Abogados Casos Criminales 
-                            
-                        ",0
-"
-                            
-                                Abogados de Accidentes 
-                            
-                        ",1
-"
-                            
-                                Desalojos 
-                            
-                        ",0
-"
-                            
-                                Abogados de Seguro social 
-                            
-                        ",6
-"
-                            
-                                Consecionarios de Autos 
-                            
-                        ",1
-"
-                            
-                                Chevrolet 
-                            
-                        ",3
-"
-                            
-                                Ford 
-                            
-                        ",4
-"
-                            
-                                Honda 
+                                Mayoreo 
                             
                         ",17
 "
                             
-                                Subastas de Autos 
-                            
-                        ",0
-"
-                            
-                                Salones Para Fiestas 
-                            
-                        ",0
-"
-                            
-                                Comida Para Fiestas 
+                                Joyas 
                             
                         ",1
 "
                             
-                                Brincolines para Fiestas 
+                                Ropa en venta 
                             
-                        ",8
+                        ",2
 "
                             
-                                Limosinas 
+                                Clases de Baile, Zumba y Salsa 
                             
                         ",0
 "
                             
-                                Vestidos y Tux 
+                                Clases de Masaje 
+                            
+                        ",0
+"
+                            
+                                Escuelas Técnicas 
                             
                         ",0
 "
@@ -275,39 +240,79 @@
                         ",1
 "
                             
-                                Clases de Masaje 
+                                Truck Driving School 
                             
                         ",0
 "
                             
-                                High School GED 
-                            
-                        ",0
-"
-                            
-                                Clases por Internet 
-                            
-                        ",6
-"
-                            
-                                Computación 
-                            
-                        ",0
-"
-                            
-                                Celulares y Smart Phones 
+                                Jumpers Y Brincolines 
                             
                         ",4
 "
                             
+                                Comida Para Fiestas 
+                            
+                        ",0
+"
+                            
+                                Salones Para Fiestas 
+                            
+                        ",0
+"
+                            
+                                Limosinas Para Fiestas 
+                            
+                        ",0
+"
+                            
+                                Fotos y Video Para Fiestas 
+                            
+                        ",6
+"
+                            
+                                Cirugía Plástica 
+                            
+                        ",0
+"
+                            
+                                Productos para Bajar de Peso 
+                            
+                        ",3
+"
+                            
+                                Productos de Belleza 
+                            
+                        ",4
+"
+                            
+                                Spas y Faciales 
+                            
+                        ",1
+"
+                            
+                                Otros Servicios de Belleza 
+                            
+                        ",0
+"
+                            
+                                Celulares 
+                            
+                        ",0
+"
+                            
                                 Computadoras 
+                            
+                        ",0
+"
+                            
+                                Diseño Web 
                             
                         ",2
 "
                             
-                                Satélite, Cable y Dish 
+                                Satélite y Cable 
                             
-                        ",17
+                        ",9
 "
                             
                                 Sistemas de Seguridad 
@@ -315,44 +320,79 @@
                         ",1
 "
                             
-                                Servicio de Internet 
+                                Compra Venta de Negocios 
+                            
+                        ",7
+"
+                            
+                                Inversiones y Socios 
+                            
+                        ",2
+"
+                            
+                                Maquinaria y Equipos 
                             
                         ",1
 "
                             
-                                Plomería 
+                                Servicios para Negocios 
                             
                         ",3
 "
                             
-                                Fumigación 
+                                Préstamos Personales 
+                            
+                        ",10
+"
+                            
+                                Refinanciamientos 
                             
                         ",0
 "
                             
-                                Servicios de Limpieza 
-                            
-                        ",5
-"
-                            
-                                Aire Acondicionado 
+                                Préstamos para Autos 
                             
                         ",1
 "
                             
-                                Mudanzas 
+                                Préstamos para Casas 
+                            
+                        ",0
+"
+                            
+                                Préstamos para Negocios 
+                            
+                        ",2
+"
+                            
+                                Abogado para Inquilinos 
+                            
+                        ",0
+"
+                            
+                                Abogados de Accidentes 
+                            
+                        ",0
+"
+                            
+                                Abogados de Casos Criminales 
+                            
+                        ",0
+"
+                            
+                                Abogados de Casos Familiares 
+                            
+                        ",0
+"
+                            
+                                Abogados de Inmigración 
                             
                         ",0
 "
                             
                                 Venta de Casas 
                             
-                        ",1
-"
-                            
-                                Venta de Terrenos 
-                            
-                        ",1
+                        ",3
 "
                             
                                 Venta de Casas Móviles 
@@ -370,51 +410,6 @@
                         ",0
 "
                             
-                                Cirugía Plástica 
-                            
-                        ",0
-"
-                            
-                                Productos de Belleza 
-                            
-                        ",5
-"
-                            
-                                Productos para Bajar Peso 
-                            
-                        ",3
-"
-                            
-                                Spas y Faciales 
-                            
-                        ",0
-"
-                            
-                                Uñas Acrílicas 
-                            
-                        ",0
-"
-                            
-                                Autos Para Junk 
-                            
-                        ",1
-"
-                            
-                                Legalización de Autos a México 
-                            
-                        ",12
-"
-                            
-                                Reparación de Autos 
-                            
-                        ",2
-"
-                            
-                                Transmisiones 
-                            
-                        ",0
-"
-                            
-                                Grúas de Auto 
+                                Venta de Terrenos 
                             
                         ",0

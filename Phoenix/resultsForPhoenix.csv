@@ -4,20 +4,20 @@
                             
                         
                         
-                            Autos y Carros Nuevos y Usados 
+                            Empleos y Trabajos 
                         
                     
-                ",17379
+                ",216
 "
                     
                         
                             
                         
                         
-                            Abogados y Servicios Legales 
+                            Autos y Carros Nuevos y Usados 
                         
                     
-                ",16
+                ",161
 "
                     
                         
@@ -27,47 +27,7 @@
                             Compra y Venta General 
                         
                     
-                ",427
-"
-                    
-                        
-                            
-                        
-                        
-                            Empleos y Trabajos 
-                        
-                    
-                ",287
-"
-                    
-                        
-                            
-                        
-                        
-                            Telecom y Equipo Digital 
-                        
-                    
-                ",25
-"
-                    
-                        
-                            
-                        
-                        
-                            Mascotas y Perros 
-                        
-                    
-                ",78
-"
-                    
-                        
-                            
-                        
-                        
-                            Fiestas, Quinceañeras y Bodas 
-                        
-                    
-                ",46
+                ",190
 "
                     
                         
@@ -77,37 +37,57 @@
                             Rentas y Alquileres 
                         
                     
-                ",152
+                ",39
 "
                     
                         
                             
                         
                         
-                            Casas de Venta 
+                            Telecom y Servicio Digital 
                         
                     
-                ",28
+                ",58
 "
                     
                         
                             
                         
                         
-                            Educación, Cursos y Clases 
+                            Mascotas y Perros 
                         
                     
-                ",16
+                ",75
 "
                     
                         
                             
                         
                         
-                            Servicios del Hogar 
+                            Fiestas, Quinceañeras y Bodas 
                         
                     
-                ",40
+                ",66
+"
+                    
+                        
+                            
+                        
+                        
+                            Préstamos 
+                        
+                    
+                ",67
+"
+                    
+                        
+                            
+                        
+                        
+                            Belleza 
+                        
+                    
+                ",24
 "
                     
                         
@@ -119,65 +99,85 @@
                     
                 ",5
 "
+                    
+                        
                             
-                                Chevrolet Dealer 
+                        
+                        
+                            Educación, Cursos y Clases 
+                        
+                    
+                ",15
+"
+                    
+                        
                             
-                        ",3190
+                        
+                        
+                            Abogados y Servicios Legales 
+                        
+                    
+                ",13
 "
                             
-                                Chevrolet 
+                                Limpieza 
                             
-                        ",12
+                        ",24
 "
                             
-                                Subastas de Autos 
+                                Choferes y Troqueros 
                             
-                        ",4
+                        ",3
 "
                             
-                                Ford Dealer 
+                                Meseros y Cocineros 
                             
-                        ",2712
+                        ",5
 "
                             
-                                Donaciones de Autos 
-                            
-                        ",0
-"
-                            
-                                Abogados Casos Criminales 
-                            
-                        ",0
-"
-                            
-                                Abogados de Accidentes 
-                            
-                        ",2
-"
-                            
-                                Desalojos 
-                            
-                        ",0
-"
-                            
-                                Abogados de Inmigración 
+                                Oficina 
                             
                         ",1
 "
                             
-                                Abogados Casos Familiares 
+                                Cuidado de Niños 
+                            
+                        ",10
+"
+                            
+                                Honda 
+                            
+                        ",27
+"
+                            
+                                Ford 
+                            
+                        ",7
+"
+                            
+                                Toyota 
+                            
+                        ",6
+"
+                            
+                                Chevrolet 
+                            
+                        ",4
+"
+                            
+                                Subastas de Autos 
                             
                         ",0
 "
                             
-                                Mayoreo 
-                            
-                        ",245
-"
-                            
                                 Ropa 
                             
-                        ",131
+                        ",48
+"
+                            
+                                Mayoreo 
+                            
+                        ",114
 "
                             
                                 Fórmula de Bebe 
@@ -187,42 +187,42 @@
                             
                                 Joyas 
                             
-                        ",3
+                        ",0
 "
                             
-                                Electrodomésticos 
+                                Compro Oro 
                             
                         ",0
 "
                             
-                                Limpieza 
+                                Apartamentos 
                             
-                        ",32
+                        ",33
 "
                             
-                                Choferes y Troqueros 
+                                Casas 
                             
-                        ",5
+                        ",1
 "
                             
-                                Cuidado de Niños 
+                                Cuartos 
                             
-                        ",14
+                        ",4
 "
                             
-                                Oficina 
+                                Townhouse-Condominos 
                             
-                        ",5
+                        ",0
 "
                             
-                                Meseros y Cocineros 
+                                Oficinas Para Aquilar 
                             
-                        ",11
+                        ",0
 "
                             
                                 Satélite, Cable y Dish 
                             
-                        ",10
+                        ",33
 "
                             
                                 Teléfonos 
@@ -232,7 +232,12 @@
                             
                                 Servicio de Internet 
                             
-                        ",1
+                        ",5
+"
+                            
+                                Celulares 
+                            
+                        ",7
 "
                             
                                 Sistemas de Seguridad 
@@ -240,24 +245,19 @@
                         ",1
 "
                             
-                                Celulares y Smartphones 
-                            
-                        ",6
-"
-                            
                                 Perritos y Cachorros 
                             
-                        ",72
-"
-                            
-                                Pájaros y Otras Aves 
-                            
-                        ",1
+                        ",66
 "
                             
                                 Adopción de Animales 
                             
                         ",1
+"
+                            
+                                Pájaros y Otras Aves 
+                            
+                        ",2
 "
                             
                                 Caballos 
@@ -267,140 +267,90 @@
                             
                                 Veterinarios 
                             
-                        ",2
+                        ",4
 "
                             
                                 Jumpers 
                             
-                        ",18
-"
-                            
-                                Fotos y Video 
-                            
-                        ",0
+                        ",15
 "
                             
                                 Decoraciones 
                             
-                        ",3
+                        ",6
 "
                             
-                                Salones de Fiestas 
+                                Fotos y Video 
                             
-                        ",17
+                        ",11
 "
                             
-                                Comida 
-                            
-                        ",2
-"
-                            
-                                Apartamentos 
-                            
-                        ",140
-"
-                            
-                                Casas 
-                            
-                        ",3
-"
-                            
-                                Townhouse-Condominos 
-                            
-                        ",1
-"
-                            
-                                Cuartos 
-                            
-                        ",7
-"
-                            
-                                Casas Móviles 
+                                Vestidos y Tux 
                             
                         ",0
 "
                             
-                                Venta de Casas 
+                                Limosinas 
+                            
+                        ",0
+"
+                            
+                                Préstamos Personales 
+                            
+                        ",57
+"
+                            
+                                Préstamos para Casas 
+                            
+                        ",1
+"
+                            
+                                Préstamos para Negocios 
                             
                         ",4
 "
                             
-                                Agentes 
-                            
-                        ",20
-"
-                            
-                                Venta de Casas Móviles 
-                            
-                        ",0
-"
-                            
-                                Venta de Terrenos 
-                            
-                        ",0
-"
-                            
-                                Inspectores de Casas 
-                            
-                        ",0
-"
-                            
-                                Escuelas Técnicas 
-                            
-                        ",0
-"
-                            
-                                Inglés y ESL 
+                                Refinanciamientos 
                             
                         ",1
 "
                             
-                                Computación 
+                                Modificación de Préstamos 
+                            
+                        ",0
+"
+                            
+                                Cómo Bajar de Peso 
+                            
+                        ",9
+"
+                            
+                                Productos de Belleza 
+                            
+                        ",4
+"
+                            
+                                Maquillaje Permanente 
                             
                         ",1
 "
                             
-                                Clases por Internet 
-                            
-                        ",3
-"
-                            
-                                Otras Clases y Cursos 
-                            
-                        ",5
-"
-                            
-                                Construcción y Remodelacion 
-                            
-                        ",5
-"
-                            
-                                Plomería 
+                                Uñas Acrílicas 
                             
                         ",0
 "
                             
-                                Reparaciones en General 
+                                Cirugía Plástica 
                             
-                        ",8
-"
-                            
-                                Aire Acondicionado 
-                            
-                        ",0
-"
-                            
-                                Fumigación 
-                            
-                        ",0
+                        ",1
 "
                             
                                 Seguros de Auto 
                             
-                        ",4
+                        ",2
 "
                             
-                                Seguros de Salud 
+                                Seguros de Casa 
                             
                         ",0
 "
@@ -410,11 +360,61 @@
                         ",0
 "
                             
-                                Seguros de Casa 
+                                Seguros de Salud 
                             
                         ",0
 "
                             
-                                Seguros de Motocicleta 
+                                Seguros de Rentas 
+                            
+                        ",0
+"
+                            
+                                Inglés y ESL 
+                            
+                        ",3
+"
+                            
+                                Clases por Internet 
+                            
+                        ",1
+"
+                            
+                                Career Colleges 
+                            
+                        ",0
+"
+                            
+                                Computación 
+                            
+                        ",1
+"
+                            
+                                Escuelas Técnicas 
+                            
+                        ",0
+"
+                            
+                                Abogados de Inmigración 
+                            
+                        ",2
+"
+                            
+                                Abogados de Accidentes 
+                            
+                        ",0
+"
+                            
+                                Abogados Casos Criminales 
+                            
+                        ",3
+"
+                            
+                                Desalojos 
+                            
+                        ",0
+"
+                            
+                                Abogado para Inquilinos 
                             
                         ",0
