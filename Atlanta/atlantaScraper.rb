@@ -1,3 +1,4 @@
+require "fileutils"
 require "nokogiri"
 require "open-uri"
 require "csv"
@@ -16,6 +17,9 @@ CSV.open("resultsForAtlanta.csv", "wb") do |csv|
 	doc.css(".tile-subcategory").each do |tile|
  		csv << [tile.text.tr("[()]+0-9", ""), tile.text.tr("^0-9$", "")]
 	end 
- 
+ 	
+ 	# dirname = FileUtils.mkdir "/atlanta/results"
+
+ 	# dirname << csv  
 
 end 
